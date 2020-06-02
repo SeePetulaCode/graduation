@@ -1,7 +1,7 @@
 ---
-name: Jarita
-institution: University of California Santa Cruz
+name: Petula
+institution: Santa Monica College
 profile_pic: photo.jpg
-quote: This is where the fun begins!
-github_user: jaritaye8
+quote: First say to yourself what you would be; and then do what you have to do. - Epictetis
+github_user: SeePetulaCode
 ---
